@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cidades</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtEstados">Estados</string>
+    <string name="txtCidades">Cidades</string>
+    <string name="title_activity_cidade">CidadeActivity</string>
+</resources>
